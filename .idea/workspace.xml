@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c152585-5d72-446a-a355-7978e2f05cd3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/music/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/templates/music/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/music/templates/music/detail.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="64" selection-start-column="64" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -72,10 +80,10 @@
         <option value="$PROJECT_DIR$/website/settings.py" />
         <option value="$PROJECT_DIR$/music/urls.py" />
         <option value="$PROJECT_DIR$/music/templates/music/index.html" />
-        <option value="$PROJECT_DIR$/music/templates/music/detail.html" />
         <option value="$PROJECT_DIR$/music/views.py" />
         <option value="$PROJECT_DIR$/music/admin.py" />
         <option value="$PROJECT_DIR$/music/models.py" />
+        <option value="$PROJECT_DIR$/music/templates/music/detail.html" />
       </list>
     </option>
   </component>
@@ -118,6 +126,19 @@
               <item name="to_git" type="462c0819:PsiDirectoryNode" />
               <item name="music" type="462c0819:PsiDirectoryNode" />
               <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="to_git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="to_git" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="to_git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="to_git" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="to_git" type="b2602c69:ProjectViewProjectNode" />
@@ -250,13 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/music/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -291,6 +305,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" selection-start-column="64" selection-end-column="64" />
         </state>
       </provider>
     </entry>
